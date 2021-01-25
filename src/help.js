@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `💎 Comandos do BrizasBot 💎  
+	return `💎 Comandos do  ALN-BOT 💎  
 🔰 Principais Comandos 🔰 
 
 Comando: '${prefix}sticker' ou '${prefix}stiker'
@@ -156,7 +156,7 @@ https://fir3.net/ELR5uKC
 
 🔰 Apoie o criador do bot a adicionar comandos novos 🥺 🔰
 
-https://enrt.eu/kN7iGtl4 (so de entrar no link ajuda)
+Wa.me/5586988036194 (so de entrar no link ajuda)
 
 `
 }
